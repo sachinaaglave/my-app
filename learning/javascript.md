@@ -37,8 +37,10 @@ What all things one should know to code in any language - Syntax of language - R
   - classes - declaration, use
   - object
 
-ECMA - 1997
-es6 - ECMAScript 6 - ECMAScript 2015
+What is ECMAScript?
+  - ECMA is an organization, define Javascript specifications
+  - First javascript specification was release in 1997
+  - es6 - ECMAScript 6 - ECMAScript 2015
 
 Javascript Variables
   - var, let, const
@@ -157,3 +159,7 @@ Javascript Class
   const bike = new Vehicle('Bike', 2);
   console.log(bike.name, bike.numberOfWheels);
 ```
+
+What all can we Import / Exports?
+  - Variables can be imported or exported. 
+  - functions, classes, variables, arrays, objects
